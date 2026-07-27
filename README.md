@@ -9,7 +9,7 @@ docker compose up --build
 ```
 
 Поднимутся три сервиса: `db` (Postgres), `migrate` (разово прогоняет
-alembic-миграции) и `api` (само приложение на `http://localhost:8000`).
+alembic-миграции) и `api` (само приложение на `http://localhost:8000/docs`).
 
 ## Эндпоинты
 
